@@ -1,15 +1,10 @@
-# Basic Sample Hardhat Project
+# Dapp that allows users to send me waves and messages using smart contracts and the ethereum blockchain!
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+![Screen Shot 2022-06-15 at 11 59 56 PM](https://user-images.githubusercontent.com/73257550/173988420-00b818ba-1d79-45ac-b7bc-af7a8b289efb.png)
 
-Try running some of the following tasks:
+# Messages are uploaded onto the Ethereum blockchain!
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Technologies & Programming Languages used:
+- Soldity
+- React.js
+- JSX
